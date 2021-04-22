@@ -6,6 +6,7 @@ Die Städte Bonn und Münster haben Formulierungen für ein „Musterlastenheft 
 
 Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine niederschwellige Kollaboration mit anderen Kommunen zu ermöglichen. Die Formulierungen können entsprechend der Lizenz CC-BY 4.0 frei genutzt werden. Außerdem können in diesem Repository Verbesserungsvorschläge erstellt, diskutiert und bearbeitet werden.
 
+<br />
 
 
 ## Inhalte
@@ -14,14 +15,25 @@ Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine nieder
 
 2. [Weiterführende Links / Begründungen](LITERATUR.md)
 
+<br />
+
+
+## Mitmachen
+
+Wenn Sie sich an den Musterformulierungen beteiligen möchten, schicken Sie uns bitte Ihre Ideen auf einem der folgendem Wege:
+* Falls Sie ein Github-Konto besitzen, loggen Sie sich ein und..
+  * ..legen Sie ein [Github-Issue in diesem Repostitory](https://github.com/od-ms/datennutzungsklauseln-muster/issues/new/choose) an
+  * ..oder stellen Sie direkt einen Pull-Request mit Ihren Vorschlägen. Dazu können Sie [auf der Seite mit den Musterformulierungen](MUSTERKLAUSELN.md) auf das graue Stift-Symbol klicken.
+* Falls Sie kein Github-Konto erstellen möchten, schreiben Sie uns gern eine Mail an opendata@citeq.de
+
+Wir freuen uns natürlich auch  über Verbesserungsvorschläge, Ideen, Rückmeldungen falls Sie diese Klauseln nutzen, Fehler gefunden haben, etc.\
+Sie können uns auch persönlich kontaktieren unter den unten stehenden Kontaktadressen.
 
 
 <br />
 
-<br />
 
-
-Kontakt:
+## Kontakt
 
 ```
 Stadt Bonn
@@ -32,9 +44,13 @@ E-Mail: sven.hense@bonn.de
 Stadt Münster
 Thomas Werner
 Telefon: +49 251 492 19 09
-E-Mail: wernerth@citeq.de
+E-Mail: opendata@citeq.de
 ```
 
+
+<br />
+
+## Partnerlogos
 
 
 <table>
