@@ -37,7 +37,7 @@ Sie finden im Folgenden die vorgeschlagenen Formulierungen eingebettet in erklä
 > Ziel von Teil 2 ist es, **den technischen Datenzugang zu ermöglichen.**\
 > Leider bieten viele (Fach-)Anwendungen keine Möglichkeit, auf die in der Anwendung gespeicherten Daten zuzugreifen, außer über die grafische Benutzeroberfläche für Mitarbeiter/Sachbearbeiter.\
 > Technische Barrieren führen dann zum Verlust der Datenhoheit und eine Weiternutzung der Daten wird erschwert oder unmöglich gemacht. \
-> Das ist insbesondere bei extern gehosteten Anwendungen (SAAS, Cloud) der Fall. Aber auch wenn die Daten in städtischen Datenbanken gespeichert werden, ist ein direkter Datenbankzugriff aus informationstechnsichen Gesichtspunkten nicht immer ein geeigneter Weg, weswegen ein API-Zugriff möglich sein sollte. \
+> Das ist insbesondere bei extern gehosteten Anwendungen (SAAS, Cloud) der Fall. Aber auch wenn die Daten in städtischen Datenbanken gespeichert werden, ist ein direkter Datenbankzugriff aus informationstechnischen Gesichtspunkten nicht immer ein geeigneter Weg, weswegen ein API-Zugriff möglich sein sollte. \
 > Die Erfahrung zeigt, dass dies in vielen Kontexten Probleme vermeidet: Smart City, Open Data, Ämterübergreifende Datennutzung, Anwendung moderner Datenanalyseverfahren, Einführung von Datenplattformen, generell weitere Digitalisierungsthemen im Umfeld von OZG, E-Akte, DMS.
 
 
@@ -59,7 +59,7 @@ Sie finden im Folgenden die vorgeschlagenen Formulierungen eingebettet in erklä
 > Erläuterung zu den Punkten:
 > * Zweck 2.1 - 2.4: Sicherstellung, dass ein automatisierter Zugriff auf die in der Anwendung verarbeiteten Daten ohne zusätzlich zu lizensierende Systeme möglich ist, dass dabei Programmierstandards genutzt werden können und dass eine Dokumentation vorhanden ist.
 > * Zweck 2.5: Alternativ muss eine Exportmöglichkeit gegeben sein.
-> * Zweck 2.6: Eine einheitliche externe Schnittstelle vereinfacht die Open-Data-Bereitstellung und somit Akzeptanz in den Fachbereichen. Außerdem ermöglicht ein Datenstandard eine regional übrergreifende Nachnutzung von Open-Data-Anwendungsfällen.
+> * Zweck 2.6: Eine einheitliche externe Schnittstelle vereinfacht die Open-Data-Bereitstellung und somit Akzeptanz in den Fachbereichen. Außerdem ermöglicht ein Datenstandard eine regional übergreifende Nachnutzung von Open-Data-Anwendungsfällen.
 > * Zweck 2.7: Absicherung einer Datenmigration: Rohdaten (Kompletter Datenbestand) als Absicherung, falls API für eine vollständige Datenmigration ggf. nicht ausreicht. Stichwort Sicherung des Datenzugangs bei Clouddienstleistern / externes Hosting.
 
 <br/>
