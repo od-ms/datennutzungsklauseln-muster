@@ -22,7 +22,7 @@ Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine nieder
 
 Wenn Sie sich an den Musterformulierungen beteiligen möchten, schicken Sie uns bitte Ihre Ideen auf einem der folgendem Wege:
 * Falls Sie ein Github-Konto besitzen, loggen Sie sich ein und..
-  * ..legen Sie ein [Github-Issue in diesem Repostitory](https://github.com/od-ms/datennutzungsklauseln-muster/issues/new/choose) an
+  * ..legen Sie ein [Github-Issue in diesem Repository](https://github.com/od-ms/datennutzungsklauseln-muster/issues/new/choose) an
   * ..oder stellen Sie direkt einen Pull-Request mit Ihren Vorschlägen. Dazu können Sie [auf der Seite mit den Musterformulierungen](MUSTERKLAUSELN.md) auf das graue Stift-Symbol klicken.
 * Falls Sie kein Github-Konto erstellen möchten, schreiben Sie uns gern eine Mail an opendata@citeq.de
 
@@ -56,6 +56,9 @@ E-Mail: opendata@citeq.de
 <table>
 <tr>
     <td>  <img width="130" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Bonn_2009.svg"></td>
-    <td>  <img width="250"  src="https://www.stadt-muenster.de/fileadmin/templates/global/images/stadtlogo-muenster.png"></td>
+    <td>  <img width="235"  src="https://www.stadt-muenster.de/fileadmin/templates/global/images/stadtlogo-muenster.png"></td>
+    <td>  <img width="175"  src="https://opendata.stadt-muenster.de/sites/default/files/Open_NRW-Logo_transparent.png"></td>
+
+
 </tr>
 </table>
