@@ -45,7 +45,7 @@ Sie finden im Folgenden die vorgeschlagenen Formulierungen eingebettet in erklä
 
 2.2 Die API folgt einem gängigen Standard (wie z. B. REST oder SOAP) und kann ohne weitere kostenpflichtige Entwicklungssysteme genutzt werden.
 
-2.3 Technisch etablierte und produktiv einsetzbare API-Standards (beispielsweise XÖV) sind vorrangig zu nutzen.
+2.3 Technisch etablierte und produktiv einsetzbare API-Standards (beispielsweise [XÖV](https://www.xoev.de/) oder [FIM](https://fimportal.de/)) sind vorrangig zu nutzen.
 
 2.4 Eine detaillierte API-Dokumentation mit Erläuterung der Funktionen ist im Angebotspreis enthalten.
 
