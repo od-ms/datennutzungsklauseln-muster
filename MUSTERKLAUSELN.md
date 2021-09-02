@@ -2,9 +2,9 @@
 
 
 
-# Musterlastenheft kommunale Datensouveränität
+# Musterlastenheft kommunale Datenhoheit
 
-Der Text „Musterlastenheft zur kommunalen Datensouveränität“ steht unter der Lizenz CC-BY 4.0:\
+Der Text „Musterlastenheft zur kommunalen Datenhoheit“ steht unter der Lizenz CC-BY 4.0:\
 Stadt Bonn / Stadt Münster
 
 Sie finden im Folgenden die vorgeschlagenen Formulierungen eingebettet in erklärende Erläuterungen.
@@ -43,9 +43,9 @@ Sie finden im Folgenden die vorgeschlagenen Formulierungen eingebettet in erklä
 
 2.1 Der technische Datenzugang (API) erfolgt grundsätzlich durch eine vom Auftragnehmer bereitgestellte und produktiv nutzbare IT-Schnittstelle für einen vollständigen Datenzugriff im maschinenlesbaren Format. Ein Format ist maschinenlesbar, wenn die enthaltenen Daten automatisiert weiterverarbeitet werden können. Die Datenausgabe soll mit Metadaten versehen sein.
 
-2.2 Die API folgt einem gängigen Standard (wie z. B. REST oder SOAP) und kann ohne weitere kostenpflichtige Entwicklungssysteme genutzt werden.
+2.2 Die API folgt einem gängigen Standard und muss durch jedes freie und dem aktuellen technischen Standard entsprechende Entwicklungssystem genutzt werden können.
 
-2.3 Technisch etablierte und produktiv einsetzbare API-Standards (beispielsweise [XÖV](https://www.xoev.de/) oder [FIM](https://fimportal.de/)) sind vorrangig zu nutzen.
+2.3 Technisch etablierte und produktiv einsetzbare API-Standards (beispielsweise [XÖV](https://www.xoev.de/) oder [FIM](https://fimportal.de/) sowie Open311, Oparl, Schema.org) sind vorrangig zu nutzen. Die Schnittstellen sollten sich an den EU-Standardisierungsbestebungen orientieren.
 
 2.4 Eine detaillierte API-Dokumentation mit Erläuterung der Funktionen ist im Angebotspreis enthalten.
 
