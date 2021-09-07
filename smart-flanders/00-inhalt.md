@@ -30,33 +30,33 @@ Version 1.0 (Oktober 2018)
     3.5. Technische Spezifikationen\
     3.6. Fazit
 
-4. Allgemeine Spezifikationen
-4.1. Grundsatz der Offenheit von Daten und Datensätzen (Open Data)
-4.2. Liste der 'Erhobenen Daten' (Daten im Allgemeinen)
-4.3. Eigentum und Zugriff auf erhobene Daten (Daten allgemein im Kontext von Open Data)
-4.4. Zwischeninspektion und Inspektion (Daten allgemein)
-4.5. Aktive Mitarbeit in Arbeitsgruppen (optional) (Open Data)
+4. Allgemeine Spezifikationen\
+    4.1. Grundsatz der Offenheit von Daten und Datensätzen (Open Data)\
+    4.2. Liste der 'Erhobenen Daten' (Daten im Allgemeinen)\
+    4.3. Eigentum und Zugriff auf erhobene Daten (Daten allgemein im Kontext von Open Data)\
+    4.4. Zwischeninspektion und Inspektion (Daten allgemein)\
+    4.5. Aktive Mitarbeit in Arbeitsgruppen (optional) (Open Data)
 
-5. Auswahlkriterien
-5.1. Allgemeines
-5.2. Fachliche und fachliche Kompetenz
-5.2.1. Denkweisen
-5.2.2. Nachweis der fachlichen und fachlichen Kompetenz
+5. Auswahlkriterien\
+    5.1. Allgemeines\
+    5.2. Fachliche und fachliche Kompetenz\
+    5.2.1. Denkweisen\
+    5.2.2. Nachweis der fachlichen und fachlichen Kompetenz
 
-6. Zuschlag-Kriterien
-6.1. Allgemeines
-6.2. Zuschlag-Kriterium: Aktionsplan
-6.2.1. Bewertungselement I: Qualität des Zugangs zu den Daten (Daten allgemein)
-6.2.2. Bewertungselement II: Qualität der Publikationsmethode (Linked Open Data)
-6.2.3. Bewertungselement III: Nutzung von Open Standards Linked Governments (OSLO) (Linked Offenes Dating)
+6. Zuschlag-Kriterien\
+    6.1. Allgemeines\
+    6.2. Zuschlag-Kriterium: Aktionsplan\
+    6.2.1. Bewertungselement I: Qualität des Zugangs zu den Daten (Daten allgemein)\
+    6.2.2. Bewertungselement II: Qualität der Publikationsmethode (Linked Open Data)\
+    6.2.3. Bewertungselement III: Nutzung von Open Standards Linked Governments (OSLO) (Linked Offenes Dating)
 
-7. Technische Daten
-7.1. Zugriff auf Daten (Daten allgemein)
-7.2. Veröffentlichungspflicht „Erhobene Daten“ .
-7.3. Dezentralisierung (Linked Open Data)
-7.4. Nachhaltigkeit (Offene Dating)
-7.5. Metadaten (Offene Dating)
-7.6. Offene Formate (Offene Dating)
-7.7. Linked Open Data und URIs (Linked Open Data)
-7.8. Verwendung offener Standards für verbundene Regierungen (Linked Open Data)
+7. Technische Daten\
+7.1. Zugriff auf Daten (Daten allgemein)\
+7.2. Veröffentlichungspflicht „Erhobene Daten“\
+7.3. Dezentralisierung (Linked Open Data)\
+7.4. Nachhaltigkeit (Offene Dating)\
+7.5. Metadaten (Offene Dating)\
+7.6. Offene Formate (Offene Dating)\
+7.7. Linked Open Data und URIs (Linked Open Data)\
+7.8. Verwendung offener Standards für verbundene Regierungen (Linked Open Data)\
 7.9. Flämisches Open Data Portal
