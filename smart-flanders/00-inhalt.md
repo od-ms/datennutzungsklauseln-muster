@@ -3,7 +3,7 @@ Version 1.0 (Oktober 2018)
 
 ## Inhaltsverzeichnis
 
-1. Einführung\
+1. [Einführung](01-einfuehrung.md)\
   1.1 Warum dieses Skript?\
     1.2 Zielgruppe\
     1.3 Struktur\
@@ -11,7 +11,7 @@ Version 1.0 (Oktober 2018)
     1.5. Dynamischerer Charakter\
     1.6 Haftungsausschluss
 
-2. Konzeptioneller Rahmen\
+2. [Konzeptioneller Rahmen](02-konzept.md)\
     2.1. Begriff\
         2.1.1. Stadtdaten vs. Persönliches Dating\
         2.1.2. Unterscheiden danach, wer die zu erhebenden Daten erhebt oder anordnet\
@@ -22,7 +22,7 @@ Version 1.0 (Oktober 2018)
         2.2.4. Ausgeschlossene Datentypen\
     2.3. Verknüpfte Offene Daten\
 
-3. Bauliche Spezifikationen\
+3. [Bauliche Spezifikationen](03-spezifikation.md)\
     3.1. Vorwort\
     3.2. Auswahlkriterium\
     3.3. Zuschlagskriterien\
