@@ -1,8 +1,8 @@
 # Datennutzungsklauseln für kommunale Verträge
 
-Die Städte Bonn und Münster haben Formulierungen für ein „Musterlastenheft kommunale Datensouveränität“ entwickelt.
+Die Städte Bonn und Münster haben Formulierungen für ein „Musterlastenheft kommunale Datenhoheit“ entwickelt.
 
-*Der primäre Zweck dieser Formulierungen ist, als **Bestandteil des Leistungsverzeichnisses** bei Beschaffungen bzw. Vergabeverfahren verwendet zu werden, um die Abstimmung, Regelung und Sicherung der **kommunalen Datensouveränität** zu unterstützen.*
+*Der primäre Zweck dieser Formulierungen ist, als **Bestandteil des Leistungsverzeichnisses** bei Beschaffungen bzw. Vergabeverfahren verwendet zu werden, um die Abstimmung, Regelung und Sicherung der **kommunalen Datenhoheit** zu unterstützen.*
 
 Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine niederschwellige Kollaboration mit anderen Kommunen zu ermöglichen. Die Formulierungen können entsprechend der Lizenz CC-BY 4.0 frei genutzt werden. Außerdem können in diesem Repository Verbesserungsvorschläge erstellt, diskutiert und bearbeitet werden.
 
@@ -11,7 +11,7 @@ Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine nieder
 
 ## Inhalte
 
-1. [Musterlastenheft / Musterformulierungen zur kommunalen Datensouveränität](MUSTERKLAUSELN.md)
+1. [Musterlastenheft / Musterformulierungen zur kommunalen Datenhoheit](MUSTERKLAUSELN.md)
 
 2. [Weiterführende Links / Begründungen](LITERATUR.md)
 
