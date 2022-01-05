@@ -13,7 +13,9 @@ Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine nieder
 
 1. [Musterlastenheft / Musterformulierungen zur kommunalen Datenhoheit](MUSTERKLAUSELN.md)
 
-2. [Weiterführende Links / Begründungen](LITERATUR.md)
+2. [Vertiefende Informationen / Musterklauseln "Smart Flanders 2.0"](SMART_FLANDERS.md)
+
+3. [Warum sind Mustervertragsklauseln zur Datensouveränität wichtig?](LITERATUR.md)
 
 <br />
 
