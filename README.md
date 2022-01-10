@@ -4,16 +4,32 @@ Die Städte Bonn und Münster haben Formulierungen für ein „Musterlastenheft 
 
 *Der primäre Zweck dieser Formulierungen ist, als **Bestandteil des Leistungsverzeichnisses** bei Beschaffungen bzw. Vergabeverfahren verwendet zu werden, um die Abstimmung, Regelung und Sicherung der **kommunalen Datenhoheit** zu unterstützen.*
 
-Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine niederschwellige Kollaboration mit anderen Kommunen zu ermöglichen. Die Formulierungen können entsprechend der Lizenz CC-BY 4.0 frei genutzt werden. Außerdem können in diesem Repository Verbesserungsvorschläge erstellt, diskutiert und bearbeitet werden.
+Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine niederschwellige Kollaboration mit anderen Kommunen und weiteren Intererssierten zu ermöglichen. Die Formulierungen können entsprechend der Lizenz CC-BY 4.0 frei genutzt werden. Außerdem können in diesem Repository Verbesserungsvorschläge erstellt, diskutiert und bearbeitet werden.
 
 <br />
 
 
 ## Inhalte
 
-1. [Musterlastenheft / Musterformulierungen zur kommunalen Datenhoheit](MUSTERKLAUSELN.md)
 
-2. [Weiterführende Links / Begründungen](LITERATUR.md)
+### 1. Musterlastenheft / Musterformulierungen zur kommunalen Datenhoheit
+
+Unsere Formulierungsvorschläge samt Erläuterungen.\
+Dieses Dokument ist bewusst kurz, knapp und übersichtlich gehalten, um einen einfachen Einstieg und eine niederschwellige "copy & paste"-Nutzung zu ermöglichen. Die Formulieren können entsprechend der jeweiligen Vertragssituation übernommen werden.
+
+|[&gt;&gt;  zum Musterlastenheft](MUSTERKLAUSELN.md)|
+|---|
+
+
+
+### 2. Linksammlung / Weiterführende Informationen
+Anregungen und weiterführende Links zur Vertiefung des Themas finden sich unter diesem Link. Das beinhaltet auch Best-Practices für den Umgang mit Daten bei öffentlichen Aufträgen.
+
+|[&gt;&gt;  zu den vertiefenden Links](LITERATUR.md)|
+|---|
+
+
+
 
 <br />
 
@@ -46,7 +62,6 @@ Thomas Werner
 Telefon: +49 251 492 19 09
 E-Mail: opendata@citeq.de
 ```
-
 
 <br />
 
