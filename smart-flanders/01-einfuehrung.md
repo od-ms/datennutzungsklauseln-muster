@@ -1,6 +1,6 @@
 ## 1. Einleitung
 
-### 1.1 Warum dieses Skript?
+### 1.1 Warum dieses Dokument?
 Dieses Dokument wurde im Rahmen des Smart Flanders Programms entwickelt, ein
 von Forschern des IMEC durchgeführtes Förderprogramm, in dem die flämische Regierung und die Flämische Gemeinschaftskommission für Brüssel 13 zentrale Städte bei ihren Entwicklungen zu Smart Cities unterstützt [1].
 
@@ -36,7 +36,7 @@ Daten, während sich die Mehrheit speziell auf offene Daten bezieht. Im Titel je
 
 Einige der Beispielklauseln in dieser Dokumentation sind nur für die Beschreibung von Linked Open Data relevant. Dies ist in den entsprechenden Bestimmungen angegeben.
 
-### 1.5 Dynamischerer Charakter
+### 1.5 Dynamischer Charakter
 Dieses Dokument ist eine erste veröffentlichte Version und basiert auf der praktischen Anwendung durch die oben genannten Städte und Gemeinden. Die daraus gewonnenen Inputs und Feedbacks wurden verschriftlicht und werden in Zukunft aktualisiert.
 
 ### 1.6. Haftungsausschluss
