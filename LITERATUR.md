@@ -1,9 +1,39 @@
 
-# Literaturverweise
+# Vertiefende Informationen
+
+&nbsp;
+
+## Best-Practice-Beispiele zu Mobilitätsdaten
+
+Im Themenbereich "Mobility-as-a-service" - z.B. bei Verträgen mit Anbietern von E-Roller-Sharing - hat sich die [Mobility Data Specification](https://github.com/openmobilityfoundation/mobility-data-specification) als Standard durchgesetzt.
+
+Folgende Beispiele zeigen mit konkreten vertraglichen Formulierungen, wie die Datenhoheit der Kommunen sichergestellt werden kann:
+
+* Mustervereinbarung der Stadt Hamburg für E-Tretroller-Anbieter: https://www.hamburg.de/contentblob/12739712/7242056ae13651f702172cbc2adb4281/data/%202019-06-20-plev-vereinbarung-hamburg-final.pdf
+* Empfehlungen und Memorandum von Deutscher Städtetag und Deutscher Städte- und Gemeindebund: https://www.staedtetag.de/publikationen/positionspapiere/e-tretroller-stadtverkehr-praxisleitfaden-2019
+* Lizenzierungsbedingungen der Stadt San Francisco für Mobility-as-a-Service-Angebote: https://www.sfmta.com/sites/default/files/reports-and-documents/2018/10/scooter_program_terms_conditions_and_guidline_10.12.18_0.pdf
+
+Spannende Einblicke zum Themenbereich Smarte Mobilität bietet auch die [Studie "Öffentliche Mobilitätsplattformen" der Rosa Luxemburg Stiftung (Juni 2021)](https://www.rosalux.de/publikation/id/44480/oeffentliche-mobilitaetsplattformen).
+
+&nbsp;
+
+## Linksammlung
+
+### "Smart Flanders" Musterklauseln
+
+Die belgische Initiative "Smart Flanders 2.0", bestehend aus 13 belgischen Städten und der Kommission der Flämischen Gemeinschaft, hat eine Open-Data-Charta samt Vertrags-Musterklauseln ausgearbeitet und im Sommer 2018 ratifiziert. Diese Grundsätze erläutern weitere Hintergrundinformationen und sind mit konkreten Beispielen versehen:\
+https://smart.flanders.be/open-data-beleid/open-data-charter/
+
+### Vertragsklauseln im Überblick bei der Europäischen Kommission
+
+Das "Support Centre for Data Sharing" der EU-Kommission hat sich Vertragsklauseln von bestehenden Verträgen in Bezug auf Daten angeschaut. Diese Klauseln wurden je nach Sektor bzw. Thema betrachtet, wiedergegeben und kommentiert. Daraus ist eine fast 200-Seitge Studie entstanden, sowie ein Internetangebot zum durchstöbern der einzelnen Formulierungen:\
+https://eudatasharing.eu/de/recommended-contract-terms
+
+&nbsp;
 
 ## Warum sind Mustervertragsklauseln zur Datensouveränität wichtig?
 
-Auf dieser Seite sind Zitate gesammelt, die eine Notwendigkeit der im Musterlastenheft formulierten Mustervertragsklauseln begründen.
+Im Folgenden sind Zitate gesammelt, die eine Notwendigkeit der im Musterlastenheft formulierten Mustervertragsklauseln begründen.
 
 ### Zitate aus PD "Datensouveraenitaet in der Smart City" 02/2020
 (https://www.pd-g.de/assets/Presse/Fachpresse/200213_PD-Impulse_Datensouveraenitaet_Smart_City.pdf)
