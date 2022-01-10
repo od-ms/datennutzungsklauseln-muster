@@ -52,13 +52,9 @@ E-Mail: opendata@citeq.de
 
 ## Partnerlogos
 
+<img width="130" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Bonn_2009.svg">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="130" src="https://www.kdn.de/typo3conf/ext/citko_config/Resources/Public/Icons/kdn-logo-neu2.svg"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="140" src="https://oknrw.info/wp-content/uploads/2018/06/OK-NRW.png">
 
-<table>
-<tr>
-    <td>  <img width="130" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Bonn_2009.svg"></td>
-    <td>  <img width="235"  src="https://www.stadt-muenster.de/fileadmin/templates/global/images/stadtlogo-muenster.png"></td>
-    <td>  <img width="175"  src="https://opendata.stadt-muenster.de/sites/default/files/Open_NRW-Logo_transparent.png"></td>
+&nbsp;
 
+<img width="185"  src="https://opendata.stadt-muenster.de/sites/default/files/Open_NRW-Logo_transparent.png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <img width="235"  src="https://www.stadt-muenster.de/fileadmin/templates/global/images/stadtlogo-muenster.png">
 
-</tr>
-</table>
