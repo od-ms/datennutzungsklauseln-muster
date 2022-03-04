@@ -16,18 +16,30 @@ Sie finden im Folgenden die vorgeschlagenen Formulierungen eingebettet in erklä
 > Ziel von Teil 1 "Datenrechte": \
 > Die folgenden Klauseln  dienen der **Festlegung Urheberrechtsinhaber & Nutzungsrecht.**
 
+### 1.1 Faktendaten
 
-1.1 Das Urheberrecht der erzeugten und verarbeiteten Daten liegt ausschließlich und zeitlich unbefristet bei der Stadt `Musterstadt`.
+1.1.1 Faktendaten sind solche Daten, die reale Verhältnisse abbilden. Ihr Ursprung rührt nicht aus einer persönlichen kreativen Leistung her, sondern im Gegenteil basieren Korrektheit und Genauigkeit der Daten auf einer rigorosen Einhaltung einerseits der verwendeten Spezifikationen oder Standardisierungswerke, und andererseits der exakten Faktenlage am realen Objekt, mit minimalem bis keinem Spielraum für persönliche Interpretation oder kreative Auslegung. Es handelt sich bei Faktendaten daher nicht um Werke im Sinne des Urheberrechts.
 
-1.2 Das Urheberrecht umfasst dabei das uneingeschränkte und zeitlich unbefristete Nutzungsrecht der Stadt `Musterstadt` an den erzeugten und verarbeiteten Daten. Das Nutzungsrecht umfasst dabei auch das Recht zu einer Open Data-Veröffentlichung unter einer von der Stadt `Musterstadt` frei wählbaren Datenlizenz sowie jedwedes Recht zu einer beliebigen Weiterverarbeitung durch die Stadt `Musterstadt`.
+1.1.2 Die Anordnung der erhobenen Daten stellt kein Datenbankwerk im Sinne des §4 UrhG dar. Auswahl und Anordnung der Elemente sind keine individuellen schöpferischen Leistungen, sondern folgen den vorgegebenen Regeln der genutzten Spezifikation und ähnlicher Standardisierungswerke und lassen keinen Spielraum für individuelle Kreativität. In jedem Fall wäre hierdurch ohnehin nur die Form und Anordnung der Datenbank geschützt, nicht jedoch die individuellen Faktendaten.
 
-1.3 Eine Datennutzung der erzeugten und verarbeiteten Daten durch den Auftragnehmer ist gesondert schriftlich zu vereinbaren.
+1.1.3 Die einzelnen Datenpunkte sind demnach nicht durch das Urheberrecht geschützt, und zwischen `Auftragnehmerin` und der Stadt `Musterstadt` werden keine weiteren Vereinbarungen geschlossen, die die freie Verwertung, Verbreitung und Nutzung der Daten auf irgendeine Weise durch beliebige Parteien einschränkt.
+
+### 1.2 Daten mit Werkcharakter sowie Datenbankherstellerrechte
+
+1.2.1 Für den Fall, dass bei der Datenerhebung durch persönliche individuelle schöpferische Leistungen ein Werk entsteht, liegen die Urheberrechte am Gesamtwerk sowie den hierdurch erzeugten und verarbeiteten Datenpunkten ausschließlich und zeitlich unbefristet bei der Stadt `Musterstadt`. Für den Fall, dass durch eine wesentliche Investition Datenbankherstellerrechte gemäß §§87a ff. UrhG entstehen, liegen diese Rechte bei der Stadt `Musterstadt`.
+
+1.2.2 Die Urheberrechte umfassen dabei das uneingeschränkte und zeitlich unbefristete Nutzungs-, Verbreitungs- und Vervielfältigungsrecht der Stadt `Musterstadt` an den erzeugten und verarbeiteten Daten. Eingeschlossen sind die Rechte zur Unterlizenzierung (Open Data-Veröffentlichung) unter einer von der Stadt `Musterstadt` frei wählbaren, auf dem Urheberrecht basierenden Datenlizenz, sowie jedwedes Recht zu einer beliebigen Weiterverarbeitung durch die Stadt `Musterstadt`.
+
+1.2.3 Eine Datennutzung der erzeugten und verarbeiteten Daten durch den Auftragnehmer ist gesondert schriftlich zu vereinbaren.
 
 
 > Erläuterung zu den Punkten:
-> * Zweck 1.1: Urheberrecht festlegen. Situation insbesondere bei Clouddiensten und Datenbankrechte bei extern gehosteten Verfahren. Kann auch sinnvoll sein bei Werkverträgen.
-> * Zweck 1.2: Klärung Urheberrecht und Nutzungsrecht. Nur Nutzungsrecht ist ggf. zu wenig, da Rechte entzogen bzw. bei zeitlich befristeten Verträgen ablaufen können.
-> * Zweck 1.3: Konkretisierung Auftragsdatenverarbeitung und Datenabfluss / Nachnutzung ohne Wissen des Auftraggebers
+> * Zweck 1.1.1: Klarstellung, keine inter-omnes-Rechte an Faktendaten
+> * Zweck 1.1.2: Regelmäßig kein Datenbankwerk
+> * Zweck 1.1.3: Keine inter-partes-Vereinbarungen zwischen Stadt und Auftragnehmerin (die nur zwischen den Parteien gelten würde)
+> * Zweck 1.2.1: Urheberrecht festlegen. Situation insbesondere bei Clouddiensten und Datenbankrechte bei extern gehosteten Verfahren. Kann auch sinnvoll sein bei Werkverträgen.
+> * Zweck 1.2.2: Klärung Urheberrecht und Nutzungsrecht. Nur Nutzungsrecht ist ggf. zu wenig, da Rechte entzogen bzw. bei zeitlich befristeten Verträgen ablaufen können.
+> * Zweck 1.2.3: Konkretisierung Auftragsdatenverarbeitung und Datenabfluss / Nachnutzung ohne Wissen des Auftraggebers
 
 
  <br/>
