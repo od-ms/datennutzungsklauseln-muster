@@ -67,7 +67,7 @@ Zusätzlich zu der Bestimmung aus Abschnitt 4.4 (Inspektion und Bewertung) eine 
 
 Die nachstehende Klausel enthält ein Beispiel für die Anwendung auf den Bereich Mobilität.
 Diese Klausel ist nicht bindend.
-Entscheidet sich der Auftraggeber dafür, dieser Verpflichtung eine größere Gewichtung zukommen zu lassen, kann sie dies als technische Spezifikation aufnehmen indem sie es vorschreibt, anstatt es nur zu empfehlen.
+Entscheidet sich der Auftraggeber dafür, dieser Verpflichtung eine größere Gewichtung zukommen zu lassen, kann sie dies als technische Spezifikation aufnehmen, indem sie es vorschreibt, anstatt es nur zu empfehlen.
 
 "Der Auftraggeber rät dem Auftragnehmer, sich aktiv an den Sitzungen des Ausschusses zu beteiligen.
 Arbeitsgruppen, welche sich mit den neuesten Europäischen Entwicklungen im Bezug auf Open Data auseinandersetzen und auf dem Laufenden zu bleiben, sollen auch Erkenntnisse aus Workshops in Verfahren umzusetzen.
