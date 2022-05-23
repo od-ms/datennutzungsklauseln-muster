@@ -45,7 +45,7 @@ Sie finden im Folgenden die vorgeschlagenen Formulierungen eingebettet in erklä
 
 2.2 Die API folgt einem gängigen Standard und muss durch jedes freie und dem aktuellen technischen Standard entsprechende Entwicklungssystem genutzt werden können.
 
-2.3 Technisch etablierte und produktiv einsetzbare API-Standards (beispielsweise [XÖV](https://www.xoev.de/) oder [FIM](https://fimportal.de/) sowie Open311, Oparl, Schema.org) sind vorrangig zu nutzen. Die Schnittstellen sollten sich an den EU-Standardisierungsbestebungen orientieren.
+2.3 Technisch etablierte und produktiv einsetzbare API-Standards (beispielsweise [XÖV](https://www.xoev.de/) oder [FIM](https://fimportal.de/) sowie Open311, Oparl, Schema.org) sind vorrangig zu nutzen. Die Schnittstellen sollten sich an den EU-Standardisierungsbestrebungen orientieren.
 
 2.4 Eine detaillierte API-Dokumentation mit Erläuterung der Funktionen ist im Angebotspreis enthalten.
 
