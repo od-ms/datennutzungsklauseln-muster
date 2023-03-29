@@ -1,16 +1,32 @@
 # Datennutzungsklauseln für kommunale Verträge
 
-Die Städte Bonn und Münster haben Formulierungen für ein „Musterlastenheft kommunale Datenhoheit“ entwickelt.
+Die Städte Bonn und Münster haben im Jahr 2021 Formulierungen für ein „Musterlastenheft kommunale Datenhoheit“ entwickelt.
 
-*Der primäre Zweck dieser Formulierungen ist, als **Bestandteil des Leistungsverzeichnisses** bei Beschaffungen bzw. Vergabeverfahren verwendet zu werden, um die Abstimmung, Regelung und Sicherung der **kommunalen Datenhoheit** zu unterstützen.*
+Der primäre Zweck dieser Formulierungen war, *als **Bestandteil des Leistungsverzeichnisses** bei Beschaffungen bzw. Vergabeverfahren verwendet zu werden, um die Abstimmung, Regelung und Sicherung der **kommunalen Datenhoheit** zu unterstützen.*
 
-Die Formulierungen sind in diesem Git-Repository veröffentlicht, um eine niederschwellige Kollaboration mit anderen Kommunen und weiteren Intererssierten zu ermöglichen. Die Formulierungen können entsprechend der Lizenz CC-BY 4.0 frei genutzt werden. Außerdem können in diesem Repository Verbesserungsvorschläge erstellt, diskutiert und bearbeitet werden.
+Es war uns nämlich mehrfach untergekommen, dass Daten aus der Kommunalverwaltung nicht als "Open Data" veröffentlicht werden konnten (und teilweise auch nicht ämterübergreifend genutzt werden durften), teils wegen technischer, aber insbesondere wegen vertraglicher Regelungen. 
 
-<br />
+Mit "Musterklauseln" -- in Form von 10 kurzen Sätzen zum Einfügen in IT-Verträge -- wollten wir eine einfache Möglichkeit schaffen, damit Städte bei Vertragsschluss ihre "Datenhoheit" behalten. Ein schönes Ziel, leider hielten unsere Formulierungen einer genaueren juristischen Betrachtung nicht Stand.
+
+-----------
+
+👉 **Neuer Leitfaden zum Thema Musterklauseln** 👈\
+Inzwischen hat die Landesregierung NRW die Wichtigkeit dieses Themas gesehen und unter Federführung des CIO NRW ist ein Praxisleitfaden entstanden. Mit *neuen* Muster-formulierungen, die zwar *etwas* länger sind -- aus 10 Sätzen wurden 15 Seiten -- aber immer noch einfach anwendbar: 
+
+Leitfaden "Datensouveränität im Kontext von Open Data:\
+https://open.nrw/system/files/media/document/file/praxisleitfaden_datensouveraenitaet_im_kontext_von_open_data.pdf
+
+Das Dokument bietet nicht nur die Musterklauseln, sondern zu allen Themen rund um Datenhoheit im Bereich Open Data geht der Leitfaden mit Beispielen und Checklisten in die Tiefe und lässt sich daher sehr gut als Nachschlagewerk nutzen: Wenn man mal entsprechende Fragen zu klären hat, dann über das Inhaltsverzeichnis an der richtigen Stelle nachlesen.\
+👉 **Neuer Leitfaden zum Thema Musterklauseln** 👈\
+
+-----------
 
 
-## Inhalte
+Die "alten" Musterformulierungen von 2021 befinden sich in diesem Git-Repository. 
+Sie stehen unter der Lizenz CC-BY 4.0 und können entsprechend frei genutzt werden. 
+Die Nutzung diesese Repository hat uns eine niederschwellige Kollaboration mit anderen Kommunen und weiteren Interessierten ermöglicht. Verbesserungsvorschläge konnten erstellt werden und eine offene Diskussion und transparente Arbeit an den Formulierungen wurde ermöglicht. 
 
+## Original-Inhalte (Stand 2021)
 
 ### 1. Musterlastenheft / Musterformulierungen zur kommunalen Datenhoheit
 
