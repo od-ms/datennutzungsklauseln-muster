@@ -18,6 +18,9 @@ Spannende Einblicke zum Themenbereich Smarte Mobilität bietet auch die [Studie 
 &nbsp;
 
 ## Linksammlung
+### Musterklausel aus Berlin
+
+Berlin hat ebenfalls Datenhoheits-Musterklauseln formuliert und kommt genau mit einer Klausel aus: https://www.berlin.de/moderne-verwaltung/e-government/open-data/informationsangebote/2open-datamusterklausel_-opendatainvertraegenmitdrittenzurerhebungspeicherungundverarbeitung.docx - Allerdings mit Verweis auf weitere Veordnungen. Spannend ist in dem Zusammenhang auch die Open-Data-Verordnung Berlin: https://www.berlin.de/moderne-verwaltung/e-government/open-data/rvo.pdf
 
 ### "Smart Flanders" Musterklauseln
 
